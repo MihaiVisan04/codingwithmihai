@@ -1,0 +1,16 @@
+In the folder Magic Calculator you will find the directory of my project.
+
+The folder will have another folder inside of it which is named 
+'Application Shortcut', inside I have placed a shortcut of the executable 
+which will save you some time of looking around to fint the file.
+
+This project has been turned into an executable file using pyinstaller 
+which may trigger some warnings for some antiviruses, however if you 
+do get a warning go into your antivirus and select the app to be a 
+false-positive. Some newer/better antiviruses will scan the app and see 
+that there are in fact no problems with the application. I ensure you 
+that this application is completely safe.
+
+If you are having any problems with the application or have any feedback 
+you would like to tell me about, feel free to contact me at:
+codingwithmihai@gmail.com
